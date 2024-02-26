@@ -1,0 +1,8 @@
+.login-form {
+  text-align: left;
+
+  & .login-form__input > div > * {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+}

@@ -1,0 +1,10 @@
+.unselectable {
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  -webkit-user-select: none; /* Safari */
+  user-select: none; /* Standard */
+}
+
+.pointer * {
+  cursor: pointer;
+}

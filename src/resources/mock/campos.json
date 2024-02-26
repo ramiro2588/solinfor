@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Campo 1"
+  },
+  {
+    "id": 2,
+    "nombre": "Campo 2"
+  },
+  {
+    "id": 3,
+    "nombre": "Campo 3"
+  },
+  {
+    "id": 4,
+    "nombre": "Campo 4"
+  },
+  {
+    "id": 5,
+    "nombre": "Campo 5"
+  }
+]

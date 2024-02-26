@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "nombre": "Producto de fumigación 1",
+    "marca": "Marca 1",
+    "img": "https://placehold.co/150x150"
+  },
+  {
+    "id": 2,
+    "nombre": "Producto de fumigación 2",
+    "marca": "Marca 2",
+    "img": "https://placehold.co/150x150"
+  },
+  {
+    "id": 3,
+    "nombre": "Agua",
+    "img": "https://placehold.co/150x150"
+  },
+  {
+    "id": 4,
+    "nombre": "Diesel",
+    "marca": "Marca 3",
+    "img": "https://placehold.co/150x150"
+  },
+  {
+    "id": 5,
+    "nombre": "Fertilizante 1",
+    "marca": "Marca 4",
+    "img": "https://placehold.co/150x150"
+  },
+  {
+    "id": 6,
+    "nombre": "Fertilizante 2",
+    "marca": "Marca 5",
+    "img": "https://placehold.co/150x150"
+  },
+  {
+    "id": 7,
+    "nombre": "Fertilizante 3",
+    "marca": "Marca 6",
+    "img": "https://placehold.co/150x150"
+  }
+]

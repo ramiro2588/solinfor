@@ -1,0 +1,14 @@
+.sign-in__logo {
+  text-align: center;
+
+  & .sign-in__logo__title {
+    font-weight: 600;
+    -ms-transform: scale(1, 1.3);
+    transform: scale(1, 1.3);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    letter-spacing: 2px;
+  }
+}

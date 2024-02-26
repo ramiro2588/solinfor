@@ -1,0 +1,16 @@
+.table-scroll-container {
+  @media (max-width: 900px){
+    min-width: 100vh;
+  }
+}
+
+.container-root {
+  padding-left: 0;
+  padding-right: 0;
+  height: fit-content;
+  width: 100%;
+}
+
+.pointer{
+  cursor: pointer;
+}
